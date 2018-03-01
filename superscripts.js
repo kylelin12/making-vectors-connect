@@ -84,7 +84,7 @@ var drawLine = function(x0, y0, x1, y1) {
 var updateCoor = function(x, y) {
     curX = x;
     curY = y;
-}
+};
 
 /* 
     Instructions to draw a circle
